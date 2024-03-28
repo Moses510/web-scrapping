@@ -1,7 +1,7 @@
 # web-scrapping
 
-install dependencies
+# install dependencies
 pip install -r requiremets.txt
 
-run the app
+# run the app
 python app.py
